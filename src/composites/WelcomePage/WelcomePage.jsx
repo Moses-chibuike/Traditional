@@ -8,7 +8,7 @@ const WelcomePage = () => {
     <div className={styles.container}>
       <div className={styles.separatorContainer}>
         <HeaderSeparator />
-        <p className={styles.textName}>Arifin &amp; Fitria</p>
+        <p className={styles.textName}>Nelson &amp; Quaye</p>
         <HeaderSeparator />
       </div>
       <p className={styles.invitationText}>
@@ -17,7 +17,7 @@ const WelcomePage = () => {
       </p>
       <p className={styles.invitationDate}>Saturday, 27th November 2021</p>
       <div className={styles.buttonContainer}>
-        <Button text="Save the Date!" />
+        <Button text="Click for More!" />
       </div>
     </div>
   )

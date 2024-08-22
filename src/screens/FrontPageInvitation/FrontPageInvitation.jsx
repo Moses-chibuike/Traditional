@@ -18,7 +18,7 @@ const FrontPageInvitation = ({ setInvitationOpen }) => {
       <div className={styles.container}>
         <div className={styles.separatorContainer}>
           <HeaderSeparator />
-          <p className={styles.textName}>Arifin &amp; Fitria</p>
+          <p className={styles.textName}>Nelson &amp; Quaye</p>
           <HeaderSeparator />
         </div>
         <p className={styles.invitationText}>
